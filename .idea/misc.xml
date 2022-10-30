@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable-v24/ic_baseline_directions_bus_24.xml" value="0.1" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable-v24/ic_baseline_label_important_24.xml" value="0.1" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/assistant_navigation-48px.xml" value="0.38229166666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/bottom_right_corner.xml" value="0.38229166666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/corner.xml" value="0.27685185185185185" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/custom_checkbox.xml" value="0.38229166666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.13518518518518519" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.26458333333333334" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/ic_baseline_my_location_24.xml" value="0.36666666666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/ic_baseline_navigation_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.36666666666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/ic_baseline_room_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/ic_main_background.xml" value="0.1" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/my_position.xml" value="0.38229166666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/mylocation.xml" value="0.1" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/research.xml" value="0.3625" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/station_icon.xml" value="0.16510416666666666" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/station_marker_icon.xml" value="0.2713541666666667" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/drawable/top_right_corner.xml" value="0.38229166666666664" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/activity_arrive_info.xml" value="0.33" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/activity_line_station_info.xml" value="0.4066471163245357" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/activity_main2.xml" value="0.75" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/activity_splash.xml" value="0.2861111111111111" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/content_main.xml" value="0.22" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/fragment_favorites.xml" value="0.33" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/fragment_line.xml" value="0.36614583333333334" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/fragment_stop.xml" value="0.36614583333333334" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/list_costiom_item_arrive.xml" value="0.36614583333333334" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/list_costom_item_line_station.xml" value="0.39814814814814814" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/list_costom_item_station.xml" value="0.9" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/list_costom_item_station_f.xml" value="0.36614583333333334" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/list_custom_item_line.xml" value="0.6275933609958506" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/layout/map_snippet.xml" value="0.2520833333333333" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/menu/main_menu.xml" value="0.13333333333333333" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/menu/toolbar_menu.xml" value="0.25" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/mipmap-anydpi-v26/ic_main.xml" value="0.1" />
+        <entry key="..\:/Portfolio_BusInfo/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
